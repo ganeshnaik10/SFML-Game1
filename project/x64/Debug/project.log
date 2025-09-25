@@ -1,0 +1,9 @@
+﻿  project.cpp
+C:\Users\quant\source\repos\project\depen\SFML\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'project.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\Users\quant\source\repos\project\depen\SFML\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  project.vcxproj -> C:\Users\quant\Documents\hua\SFML-Game1\x64\Debug\project.exe
